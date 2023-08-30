@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Micro Controller",
+      "path": "../micro_controller"
+    },
+    {
+      "name": "Flutter App",
+      "path": "../flutter_app"
+    },
+    {
+      "name": "AWS",
+      "path": "../aws"
+    }
+  ]
+}
